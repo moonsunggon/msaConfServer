@@ -1,3 +1,2 @@
-who:
-  am:
-    i: m2-dev
+application:
+  message: "Message From {ENV} Local Git Repository"
